@@ -152,7 +152,7 @@ function Footer() {
     setmodalState(false);
   };
   const test = () => {
-    window.open("https://forms.gle/PcssDga5APrRQFjW9");
+    window.open("https://forms.gle/SBNqqyJnDkJcPfBu5");
   };
 
   return (
