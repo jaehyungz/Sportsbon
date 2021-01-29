@@ -13,11 +13,6 @@ import {
   bnjCon2_m,
   bnjCon3_m,
 } from "../../assets/images";
-// import Bng_banner from "../Images/bnj_banner.png";
-// import Bng_con1 from "../Images/bnj_con1.png";
-// import Bng_con2 from "../Images/bnj_con2.png";
-// import bng_con3 from "../Images/bnj_con3.png";
-// import Bng_banner_m from "../Images/bnj_banner_m.png";
 
 function MainPresenter() {
   const contents = [
